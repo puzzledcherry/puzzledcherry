@@ -6,4 +6,8 @@
 - my name is skyla! 
 - im an undergraduate at UWB aiming for a BA in CSSE
 - game devving is my dream! i believe there is so much untapped potential for good in the gaming community
-- work hard play hard! make sure you drink some water and take a nap ♡
+- work hard play hard! make sure you drink some water and take a nap ♡ <br/> 
+
+### what am i working on? 
+- lots and lots of css course projects!
+- learning unity + blender to start my dream of making games
