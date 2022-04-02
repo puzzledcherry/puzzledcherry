@@ -8,7 +8,3 @@
 - 🍋 game devving is my dream! 
 - 🍡 currently learning unity, blender
 - 🌱 work hard play hard! make sure you drink some water and take a nap ♡ <br/> 
-
-<br/> 
-
-### find me on these platforms!: 
