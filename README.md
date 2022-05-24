@@ -5,6 +5,6 @@
 ### who am i anyways?
 - 🍒 my name is skyla! 
 - 💮 undergrad at UWB; CSSE major
-- 🍋 game devving is my dream! 
-- 🍡 currently learning unity, blender
+- 🍋 making games is my dream! 
+- 🍡 currently learning unity, aseprite
 - 🌱 work hard play hard! make sure you drink some water and take a nap ♡ <br/> 
