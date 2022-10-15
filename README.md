@@ -6,5 +6,5 @@
 - 🍒 my name is skyla! 
 - 💮 undergrad at UWB; CSSE major
 - 🍋 making games is my dream! 
-- 🍡 clearning unity, aseprite, & blender
+- 🍡 learning unity, aseprite, & blender
 - 🌱 work hard play hard! drink some water and take a nap ♡ <br/> 
