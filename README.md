@@ -5,6 +5,6 @@
 ### who am i anyways?
 - 🍒 my name is skyla! 
 - 💮 undergrad at UWB; CSSE major
-- 🍡 learning unity, tableau, & more
+- 🍡 learning unity, frontend/UX, & more
 - 🌱 work hard play hard
 - 🐈 drink some water & take a nap  <br/> 
