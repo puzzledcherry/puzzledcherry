@@ -1,10 +1,9 @@
-## hi! thanks for checking in!  ପ(๑•ᴗ•๑)ଓ ♡ <br/> 
+## hi! thanks for checking in! <br/> 
 
 <img align="right" width="500" height="230" src="https://github.com/puzzledcherry/puzzledcherry/blob/ebd5ac4f8048450a4d76b0a38a688c4af2ebf330/ghibliKiss.gif">
 
 ### who am i anyways?
-- 🍒 my name is skyla! 
+- 🍒 my name is skyla 
 - 💮 undergrad at UWB; CSSE major
 - 🍡 learning unity, frontend/UX, & more
-- 🌱 work hard play hard
-- 🐈 drink some water & take a nap  <br/> 
+- 🌱 currently a data analyst/swe <br/>
