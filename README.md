@@ -6,7 +6,7 @@
 <pre>
     📖 UW CSSE Grad 
     🧑‍💻 Data Analyst, Software Engineer
-    🐋 Currently Working in Maritime Industry - Marine Conservation 
+    🐋 Maritime Research - Marine Conservation & Vessel Studies
     🎮 Aspiring Gamedev - Learning Unity and Blender
 </pre>
 
