@@ -2,6 +2,14 @@
 
 ------
 
+🧠 who am i?
+<pre>
+    📖 UW CSSE Grad 
+    🧑‍💻 Data Analyst, Software Engineer
+    🐋 Currently Working in Maritime Industry, Marine Conservation
+    🎮 Aspiring Gamedev - Learning Unity and Blender
+</pre>
+
 📂 what have i been doing this week?
  <!--START_SECTION:waka-->
 ```txt
