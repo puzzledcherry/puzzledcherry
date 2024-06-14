@@ -9,7 +9,11 @@
  <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python       56 mins         ██████████████████████░░░   87.71 %
+Text         6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.85 %
+Bash         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+Java         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
