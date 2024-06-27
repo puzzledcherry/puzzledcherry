@@ -1,7 +1,7 @@
 🧠 who am i
 <pre>
 📖 UW CSSE Grad 
-🧑‍💻 Data Analyst, Software Engineer
+🧑‍💻 Software Engineer Data Analyst
 🎮 Aspiring Gamedev - Learning Unity and Blender
 </pre>
 
