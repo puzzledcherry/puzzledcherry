@@ -1,8 +1,8 @@
 🧠 who am i
 <pre>
-📖 UW CSSE Grad 
-🧑‍💻 Software Engineer Data Analyst
-🎮 Aspiring Gamedev - Learning Unity and Blender
+🧑‍💻 Software Development Engineer
+📖 University of Washington CSSE Grad
+🎮 Aspiring Gamedev - Relearning Unity and Blender
 </pre>
 
 📂 weekly breakdown
