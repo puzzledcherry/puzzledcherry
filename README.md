@@ -2,7 +2,7 @@
 <pre>
 🧑‍💻 Software Development Engineer
 📖 University of Washington CSSE Grad
-🎮 Aspiring Gamedev - Relearning Unity and Blender
+🎮 Aspiring Gamedev - Learning Unity
 </pre>
 
 📂 weekly breakdown
